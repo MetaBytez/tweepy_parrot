@@ -7,7 +7,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="tweepy-parrot",
-    version="0.0.1",
+    version="0.0.2",
     author="Will Johns",
     author_email="will@wcj.dev",
     description="A library built on top of Tweepy for making Twitter bots",
